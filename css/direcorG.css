@@ -13,7 +13,7 @@ body{
 
 }
 .director{
-    background: url(director.jpg) no-repeat left;
+    background: url() no-repeat left;
     background-size: 55%;
     background-color:  #c8ced4;
     overflow: hidden;
